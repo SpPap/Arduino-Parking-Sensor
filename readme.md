@@ -1,4 +1,4 @@
-
+# Arduino Parking Sensor
 -------------------------------------------------------------------------------------------------------------
 
 Arduino parking sensor with Arduino UNO. It uses an ultrasonic sensor which emmits ultrasound sound waves and 
@@ -7,7 +7,7 @@ if an object is close enough to the sensor.
 
 -------------------------------------------------------------------------------------------------------------
 
-COMPONENTS:
+ #### COMPONENTS:
 
 - Arduino UNO
 - 1 green LED, 2 yellow LEDs, 1 red LED
