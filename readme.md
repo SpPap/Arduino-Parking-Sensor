@@ -9,16 +9,16 @@ if an object is close enough to the sensor.
 
 COMPONENTS:
 
-~ Arduino UNO
-~ 1 green LED, 2 yellow LEDs, 1 red LED
-~ 5 220 ohm resistors
-~ 10k ohm potensiometer
-~ LCD Screen
-~ Ultrasonic Sensor HC-SR04
-~ 8 ohm Speaker 
-~ Wires
-~ Breadboard
-~ 9V Battery (optional)
+- Arduino UNO
+- 1 green LED, 2 yellow LEDs, 1 red LED
+- 5 220 ohm resistors
+- 10k ohm potensiometer
+- LCD Screen
+- Ultrasonic Sensor HC-SR04
+- 8 ohm Speaker 
+- Wires
+- Breadboard
+- 9V Battery (optional)
  
 -------------------------------------------------------------------------------------------------------------
 
