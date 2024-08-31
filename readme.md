@@ -7,7 +7,7 @@ if an object is close enough to the sensor.
 
 -------------------------------------------------------------------------------------------------------------
 
- #### COMPONENTS:
+ ### Components
 
 - Arduino UNO
 - 1 green LED, 2 yellow LEDs, 1 red LED
@@ -22,4 +22,5 @@ if an object is close enough to the sensor.
  
 -------------------------------------------------------------------------------------------------------------
 
-
+ ### Configuration
+![image](https://github.com/user-attachments/assets/1fc51207-d288-4ae7-8d04-46bd15b339e0)
